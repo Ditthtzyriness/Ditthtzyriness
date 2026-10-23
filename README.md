@@ -38,7 +38,7 @@ I’m a developer who enjoys building modern, interactive, and responsive web ex
 A modern personal portfolio showcasing my projects, skills, and development journey.
 
 **Tech:** React • TypeScript • Tailwind CSS • Vite  
-**Live:** [ditthtzyriness.netlify.app](https://ditthtzyriness.vercel.app/)
+**Live:** [MyPortfolio](https://ditthtzyriness.vercel.app/)
 
 ---
 
