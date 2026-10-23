@@ -20,7 +20,7 @@ I’m a developer who enjoys building modern, interactive, and responsive web ex
 - 🎨 Interested in modern UI/UX and interactive experiences
 - ⚡ Exploring full-stack development
 - 🛠️ Always learning and improving
-- 🌐 Portfolio: [ditthtzyrine](https://ditthtzyriness.netlify.app)
+- 🌐 Portfolio: [ditthtzyrine](https://ditthtzyriness.vercel.app/)
 
 ---
 
@@ -38,7 +38,7 @@ I’m a developer who enjoys building modern, interactive, and responsive web ex
 A modern personal portfolio showcasing my projects, skills, and development journey.
 
 **Tech:** React • TypeScript • Tailwind CSS • Vite  
-**Live:** [ditthtzyriness.netlify.app](https://ditthtzyriness.netlify.app)
+**Live:** [ditthtzyriness.netlify.app](https://ditthtzyriness.vercel.app/)
 
 ---
 
